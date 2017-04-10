@@ -1,2 +1,3 @@
 good day it is sunny
 temperature is 24
+but windy
